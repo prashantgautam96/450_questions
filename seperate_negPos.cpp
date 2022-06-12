@@ -1,5 +1,5 @@
 // 1) first aprocah will be sort the array 
-// 2)this approach
+// 2)this approach is optimal
 
 
 #include <bits/stdc++.h>
